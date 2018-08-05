@@ -1,27 +1,27 @@
 - name: GitHub
-  url: http://github.com/thehostsclub
+  url: http://github.com/phlow
   class: icon-github
-  title: "Our code on GitHub"
+  title: Code und mehr...
 
 - name: YouTube
-  url: https://www.youtube.com/channel/UCuWFFck0IsJrgZ0blZ9afgw
+  url: http://www.youtube.com/PhlowMedia
   class: icon-youtube
-  title: "TheHosts.Club videos, how-to videos, and video reviews on YouTube"
+  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/thehosts.club
+  url: http://twitter.com/phlow
   class: icon-twitter
-  title: "The stream of consciousness thoughts of TheHosts.Club team"
+  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
+- name: Mixcloud
+  url: http://www.mixcloud.com/phlow/
+  class: icon-cloud
+  title: "Mixe, was sonst?"
 
-#- name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
+- name: Phlow YouTube Google+
+  url: https://plus.google.com/u/0/+Phlow
+  class: icon-googleplus
+  title: "YouTube Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
@@ -33,10 +33,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-- name: Instagram
-   url: https://www.instagram.com/thehosts.club/
-   class: icon-instagram
-   title: "Beauty from the minds of TheHosts.Club"
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
