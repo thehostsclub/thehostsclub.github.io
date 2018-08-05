@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/thehostsclub
+  class: icon-github
+  title: "Our code on GitHub..."
+
+- name: YouTube
+  url: http://www.youtube.com/thehostsclub
+  class: icon-youtube
+  title: "TheHosts.Club videos, how-to videos, and video reviews on YouTube"
+
+- name: Twitter
+  url: http://twitter.com/thehosts.club
+  class: icon-twitter
+  title: "The stream of consciousness thoughts of TheHosts.Club team"
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+ - name: Instagram
+   url: https://www.instagram.com/thehosts.club/
+   class: icon-instagram
+   title: "Beauty from the minds of TheHosts.Club"
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
