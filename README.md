@@ -3,8 +3,8 @@
 This is the GitHub Pages repo for TheHosts.Club website.  For more information about us, check out our [*Website*][1] or Social Media (links below).
 
 ## Social Media Links
-* [*instagram*][2]
-* [*youtube*][3]
+* [*Instagram*][2]
+* [*YouTube*][3]
 
 
  [1]: http://www.thehosts.club
