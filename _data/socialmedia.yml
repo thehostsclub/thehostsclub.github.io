@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/thehostsclub
   class: icon-github
-  title: "Our code on GitHub..."
+  title: "Our code on GitHub"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCuWFFck0IsJrgZ0blZ9afgw
