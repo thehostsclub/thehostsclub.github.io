@@ -1,6 +1,11 @@
+# Welcome to TheHosts.Club repo
+
+More content to come soon...
+
+<!--
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+ [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 
 # Newsletter: Stay in Touch for Future Updates
@@ -52,18 +57,18 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
 
+-->
 
 
 
 
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
+ [1]: http://thehostsclub.github.io/
+ [2]: https://github.com/thehostsclub/thehostsclub.github.io/blob/LCENSE
+ [3]: https://github.com/thehostsclub/
+ [4]: http://instagram.com/thehosts.club
+ [5]: http://twitter.com/thehosts.club
+ [6]: https://www.youtube.com/channel/UCuWFFck0IsJrgZ0blZ9afgw
+ [7]: #
+ [8]: #
  [9]: #
  [10]: #
