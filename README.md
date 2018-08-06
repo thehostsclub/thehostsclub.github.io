@@ -2,6 +2,9 @@
 
 More content to come soon...
 
+## Authors
+ - [Marcus Bearden][7]
+
 <!--
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
@@ -68,7 +71,7 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [4]: http://instagram.com/thehosts.club
  [5]: http://twitter.com/thehosts.club
  [6]: https://www.youtube.com/channel/UCuWFFck0IsJrgZ0blZ9afgw
- [7]: #
+ [7]: https://github.com/tasogarre
  [8]: #
  [9]: #
  [10]: #
