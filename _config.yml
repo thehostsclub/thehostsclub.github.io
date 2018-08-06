@@ -17,7 +17,7 @@ slogan: 'The secret home of great Hosts around the world!'
 description: '»TheHosts.Club« is a resource for people everywhere who love to host, entertain and provide a great experience for their guests!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="http://www.thehosts.club">TheHosts.Club</a> using <a href="http://phlow.de/" target="_blank">Phlow</a>&#39;s amazing <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme for <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
+credits: '<p>Created by <a href="http://www.thehosts.club">TheHosts.Club</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> using <a href="http://phlow.de/" target="_blank">Phlow</a>&#39;s <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme.</p>'
 
 # Main author of the website
 # See > authors.yml
